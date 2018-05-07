@@ -1,0 +1,16 @@
+﻿  PEA_Tabu_search.cpp
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(55): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(68): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(73): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(74): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(98): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(99): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(171): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(179): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(245): warning C4305: "inicjowanie": obcięcie z "int" do "char"
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(245): warning C4309: "inicjowanie": obcięcie stałej wartości
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(269): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(284): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_tabu_search\pea_tabu_search.cpp(285): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  PEA_Tabu_search.vcxproj -> C:\Users\KacperT\source\repos\PEA_Tabu_search\Debug\PEA_Tabu_search.exe
